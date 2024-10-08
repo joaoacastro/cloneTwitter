@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<div align="center">
+<img src="./src/thumb.jpg" height="150px">
+</div>
+
+
 ## Available Scripts
 
 In the project directory, you can run:
